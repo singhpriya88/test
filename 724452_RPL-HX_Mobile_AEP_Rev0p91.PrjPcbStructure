@@ -1,0 +1,274 @@
+Record=TopLevelDocument|FileName=0001_TITLE.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0002_INDEX -1.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0003_INDEX -2.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0004_INDEX -3.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0005_BLOCK DIAGRAM - MA.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0006_BLOCK DIAGRAM - PO.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0007_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0008_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0009_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0010_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0011_BLNAK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0012_Processor - PEG, D.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0013_Processor - DISPLA.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0014_Processor - MEMORY.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0015_Processor - MEMORY.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0016_Processor - PM , C.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0017_Processor - MISC.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0018_Processor - CORE P.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0019_Processor - POWER.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0020_Processor - POWER .SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0021_Processor PD BOM -.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0022_Processor - CPU ST.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0023_DDR5 SODIMM CONTRO.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0024_DDR5 SODIMM CONTRO.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0025_DDR5 SODIMM CONTRO.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0026_DDR5 SODIMM CONTRO.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0027_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0028_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0029_System_debug_conne.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0030_DEBUG_CARD_SPI_SIG.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0031_DEBUG-XDP_SERIES_T.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0032_DEGUG-JTAG.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0033_DG2_debug_connecto.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0034_PCH_CLOCK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0035_PCH H CLOCK OPTION.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0036_PCH_DMI.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0037_PCH_PCIe_SATA.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0038_PCH_USB.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0039_GPP_C_D_E.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0040_GPP_I_J_K_R_S.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0041_PCH_PWR_GND.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0042_PCH_PI_BOM.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0043_GPP_MUX_E.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0044_RPL PCH H GPIO OPT.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0045_PCH STRAPS 1.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0046_PCH STRAPS 2.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0047_PCH VALIDATION.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0048_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0049_GLITCH FREE CIRCUI.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0050_X16 PEG P0-P7 COUP.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0051_X16 PEG P8-P15 COU.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0052_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0053_DISPLAY - DDIA POR.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0054_DISPLAY - DDIA POR.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0055_LED CON.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0056_DISPLAY - EDP MUX .SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0057_DISPLAY - DUT EDP .SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0058_DISPLAY SHIFT-POWE.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0059_CAMERA_CONNECTOR.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0060_DG2 DISPLAY - HDMI.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0061_DG2 DISPLAY - HDMI.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0062_DG2 DISPLAY - HDMI.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0063_DG2 DISPLAY - HDMI.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0064_HPD & WAKE SIGNALS.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0065_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0066_LLKB_CONNECTOR.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0067_SMART_C_COVER.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0068_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0069_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0070_HSIO MUXING -1.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0071_HSIO MUXING -2.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0072_HSIO MUXING -3.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0073_HSIO MUXING -4.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0074_S0IX_REQ_ACK_OPTIO.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0075_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0076_TBT_0_PA_CONNECTOR.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0077_TBT_0_PB_CONNECTOR.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0078_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0079_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0080_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0081_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0082_USB3.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0083_USB3.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0084_USB3.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0085_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0086_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0087_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0088_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0089_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0090_USB3.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0091_USB3.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0092_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0093_CONNECTIVITY - M.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0094_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0095_CONNECTIVITY - GBI.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0096_CONNECTIVITY - FOX.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0097_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0098_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0099_STORAGE - M.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0100_STORAGE - M.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0101_STORAGE - M.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0102_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0103_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0104_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0105_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0106_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0107_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0108_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0109_AUDIO - CODEC MISC.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0110_AUDIO CODEC.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0111_AUDIO - COMBO JACK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0112_AUDIO - AMP ALC131.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0113_AUDIO - SNDW2 for .SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0114_AUDIO - LOAD SWITC.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0115.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0116_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0117_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0118_ISH PULL UPS.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0119_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0120_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0121_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0122_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0123_LPSS- I2C3_I2C4_I2.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0124_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0125_BOARD_ID.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0126_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0127_EC - MISCELLANEOUS.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0128_EC - MISCELLANEOUS.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0129_EC_MEC1521_1.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0130_EC_MEC1521_2.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0131_EC - FLASH.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0132_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0133_WAN_TBT_WiFi_SSD_R.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0134_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0135_EC_STRAP.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0136_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0137_JTAG_CFG - CFG TER.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0138_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0139_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0140_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0141_FRONT PANEL - PWR .SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0142_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0143_FAN.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0144_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0145_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0146_MTG HOLES AND LABE.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0147_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0148_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0149_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0150_PD TEST POINTS.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0151_DC JACK & RTC COIN.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0152_HPB BATTERY CHARGE.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0153_HPB BATTERY CHARGE.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0154_BATTERY PATH.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0155_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0156_V3P3DSW VR.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0157_V5A and V3P3A GENE.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0158_V1P8A GENERATION.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0159_V0P82A and V1P05A_.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0160_PCH RAILS.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0161_VCCDD2_CPU VR.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0162_CPU PD BOM -2.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0163_V1P8_PCIE5 GENERAT.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0164_V1P05_CPU GENERATI.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0165_VCCINAUX_CPU VR CO.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0166_VCCINAUX_CPU POWER.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0167_POWER SEQUENCING.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0168_V12_FAN GENERATION.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0169_IMVP VREG _SOC__ C.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0170_IMVP VREG _SOC__ C.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0171_IMVP VCCCORE_SOC_ .SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0172_IMVP VCCCORE_SOC_ .SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0173_IMVP VCCCORE_SOC_ .SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0174_IMVP VCCGT _SOC_.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0175_virtual battery.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0176_S Rail power gener.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0177_AUDIO POWER RAILS.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0178_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0179_EDP POWER GENERATI.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0180_WiFi_BT, LAN, WWAN.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0181_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0182_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0183_EC POWER RAIL GENE.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0184_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0185_PG3 LOGIC.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0186.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0187_Memory OC Voltage.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0188_PECI CONNECTIONS.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0189_POWER METER -PAC19.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0190_TOUCH PAD CONNECTO.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0191_GPP_A_B_F_G_H.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0192_GPP_MUX_C.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0193_GPP_MUX_A.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0194_GPP_MUX_B.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0195_GPP_MUX_D.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0196_LPSS - SMLINK OPTI.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0197_LPSS - SMBUS.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0198_GPP_MUX_J_K.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0199_PCH H CLOCK OPTION.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0200_GPP_MUX_G_H.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0201_GPP_MUX_F.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0202_GPP_MUX_I_R.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0203_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0204_PCH_MISC.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0205_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0206_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0207_TBT_0_HISPEED.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0208_TBT_0_MISC_GND.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0209_TBT_0_PWR.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0210_TBT_HPD_Level_Shif.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0211_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0212_BLANK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0213_5V_L.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0214_PD CONTROLLER.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0215_BBR-0 - RE-TIMER -.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0216_DG2 TITLE PAGE.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0217_GPU PCIE X16.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0218_GPU GDDR6 CHANNELS.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0219_GPU GDDR6 CHANNELS.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0220_GPU GDDR6 CHANNELS.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0221_GPU GDDR6 CHANNELS.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0222_GPU POWER_ VCCGT.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0223_GPU POWER_ OTHER.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0224_GPU POWER_ GROUND.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0225_GPU_GPIO 1 OF 2.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0226_GPU_ GPIO 2 OF 2.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0227_GPU_ DEBUG.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0228_GPU DDI_ A,B,C,D.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0229_GPU_ USB & RSVD.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0230_GPU GDDR DEVICE M0.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0231_GPU GDDR DEVICE M1.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0232_GPU GDDR DEVICE M2.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0233_GPU GDDR DEVICE M3.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0234_GPU GDDR DEVICE M4.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0235_GPU GDDR DEVICE M5.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0236_GPU GDDR DEVICE M6.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0237_GPU GDDR DEVICE M7.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0238_GPU GDDR DEVICE DE.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0239_GPU GDDR DEVICE DE.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0240_GPU GDDR DEVICE DE.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0241_GPU DECOUPLING_ V1.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0242_GPU DECOUPLING_ VC.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0243_GPU DECOUPLING_ VD.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0244_GPU DECOUPLING_ VC.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0245_GPU DECOUPLING_ VC.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0246_GPU DECOUPLING_ VC.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0247_GPU DECOUPLING_ VC.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0248_GPU SPI FLASH CIRC.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0249_GPU SPI ISOLATION .SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0250.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0251_GPU VREG_ SVID.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0252_GPU+CORE-PD-BLOCK_.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0253_GPU POWER SEQUENCI.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0254_GPU POWER SEQUENCI.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0255_GPU V1P8A POWER SW.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0256_GPU_VDDQ_VCCSAMC_V.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0257_GPU_GDDR_VCCSAMC_V.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0258_GPU VREG_ VDDQ_GPU.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0259_GPU VREG_ VCCSAMC_.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0260_GPU VREG_ VCCSA_GP.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0261_GPU PSYS CIRCUIT.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0262_GPU VCCGT IMVP8 VR.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0263_GPU VCCGT IMVP8 VR.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0264_GPU_VCCGT VREG PHA.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0265_GPU_VCCGT VREG PHA.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0266_GPU_VCCGT VREG PHA.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0267_GPU_VCCGT VREG PHA.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0268_GPU_VCCGT VREG PHA.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0269_GPU_VCCGT VREG PHA.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0270_GDDR6 VDD POL VREG.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0271_GDDR6 VDD POL VREG.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0272_GPU STRAPS-1.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0273_GPU STRAPS-2.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0274_GPU STRAPS-3.SchDoc|SheetNumber= 
