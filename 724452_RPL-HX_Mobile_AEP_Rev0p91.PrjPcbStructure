@@ -39,6 +39,8 @@ Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0047_PCH VAL
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0049_GLITCH FREE CIRCUI.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0050_X16 PEG P0-P7 COUP.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0051_X16 PEG P8-P15 COU.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0052_PCIe_X16.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0053_PCIE GEN5_MISC.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0054_DISPLAY - DDIA POR.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0055_LED CON.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0056_DISPLAY - EDP MUX .SchDoc|SheetNumber= 
@@ -47,8 +49,6 @@ Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0058_DISPLAY
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0059_CAMERA_CONNECTOR.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0060_DG2 DISPLAY - HDMI.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0061_DG2 DISPLAY - HDMI.SchDoc|SheetNumber= 
-Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0062_HDMI0_CONNECTOR .SchDoc|SheetNumber= 
-Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0063_HDMI1_CONNECTOR.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0064_HPD & WAKE SIGNALS.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0066_LLKB_CONNECTOR.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0067_SMART_C_COVER.SchDoc|SheetNumber= 
@@ -147,5 +147,3 @@ Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0210_TBT_HPD
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0213_5V_L.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0214_PD CONTROLLER.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0215_BBR-0 - RE-TIMER -.SchDoc|SheetNumber= 
-Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=PCIe_X16.SchDoc|SheetNumber= 
-Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=Sheet2.SchDoc|SheetNumber= 
