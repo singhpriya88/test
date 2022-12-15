@@ -21,7 +21,6 @@ Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0029_System_
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0030_DEBUG_CARD_SPI_SIG.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0031_DEBUG-XDP_SERIES_T.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0032_DEGUG-JTAG.SchDoc|SheetNumber= 
-Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0033_DG2_debug_connecto.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0034_PCH_CLOCK.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0035_PCH H CLOCK OPTION.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0036_PCH_DMI.SchDoc|SheetNumber= 
@@ -37,21 +36,12 @@ Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0045_PCH STR
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0046_PCH STRAPS 2.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0047_PCH VALIDATION.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0049_GLITCH FREE CIRCUI.SchDoc|SheetNumber= 
-Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0050_X16 PEG P0-P7 COUP.SchDoc|SheetNumber= 
-Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0051_X16 PEG P8-P15 COU.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0052_PCIe_X16.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0053_PCIE GEN5_MISC.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0054_DISPLAY - DDIA POR.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0055_LED CON.SchDoc|SheetNumber= 
-Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0056_DISPLAY - EDP MUX .SchDoc|SheetNumber= 
-Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0057_DISPLAY - DUT EDP .SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0058_DISPLAY SHIFT-POWE.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0059_CAMERA_CONNECTOR.SchDoc|SheetNumber= 
-Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0060_DG2 DISPLAY - HDMI.SchDoc|SheetNumber= 
-Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0061_DG2 DISPLAY - HDMI.SchDoc|SheetNumber= 
-Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0064_HPD & WAKE SIGNALS.SchDoc|SheetNumber= 
-Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0066_LLKB_CONNECTOR.SchDoc|SheetNumber= 
-Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0067_SMART_C_COVER.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0070_HSIO MUXING -1.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0071_HSIO MUXING -2.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0072_HSIO MUXING -3.SchDoc|SheetNumber= 
@@ -67,7 +57,6 @@ Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0091_USB3.Sc
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0093_CONNECTIVITY - M.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0095_CONNECTIVITY - GBI.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0096_CONNECTIVITY - FOX.SchDoc|SheetNumber= 
-Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0099_STORAGE - M.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0100_STORAGE - M.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0101_STORAGE - M.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0109_AUDIO - CODEC MISC.SchDoc|SheetNumber= 
@@ -77,7 +66,6 @@ Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0112_AUDIO -
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0113_AUDIO - SNDW2 for .SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0114_AUDIO - LOAD SWITC.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0115.SchDoc|SheetNumber= 
-Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0118_ISH PULL UPS.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0123_LPSS- I2C3_I2C4_I2.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0125_BOARD_ID.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0127_EC - MISCELLANEOUS.SchDoc|SheetNumber= 
@@ -90,7 +78,6 @@ Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0135_EC_STRA
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0137_JTAG_CFG - CFG TER.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0141_FRONT PANEL - PWR .SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0143_FAN.SchDoc|SheetNumber= 
-Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0146_MTG HOLES AND LABE.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0150_PD TEST POINTS.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0151_DC JACK & RTC COIN.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0152_HPB BATTERY CHARGE.SchDoc|SheetNumber= 
