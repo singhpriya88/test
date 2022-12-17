@@ -445,7 +445,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=IEEZKHUR
+DocumentUniqueId=VRPUANXN
 
 [Document25]
 DocumentPath=0035_PCH H CLOCK OPTION.SchDoc
@@ -992,7 +992,7 @@ GenerateClassCluster=0
 DocumentUniqueId=MPHAGYPP
 
 [Document57]
-DocumentPath=0093_CONNECTIVITY - M.SchDoc
+DocumentPath=0093_M.2 KEY-E WLAN-BT.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1009,7 +1009,7 @@ GenerateClassCluster=0
 DocumentUniqueId=XJDUWCST
 
 [Document58]
-DocumentPath=0095_CONNECTIVITY - GBI.SchDoc
+DocumentPath=0095_GBIT LAN - FOXVILLE LAN PHY CHIP.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1060,7 +1060,7 @@ GenerateClassCluster=0
 DocumentUniqueId=XAQTJCWM
 
 [Document61]
-DocumentPath=0101_STORAGE - M.SchDoc
+DocumentPath=0101_PCIe_GEN4.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2350,6 +2350,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UUGGUXGU
+
+[Document137]
+DocumentPath=724452_RPL-HX_Mobile_AEP_Rev0p91_Library.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YPZNXMSF
 
 [Configuration1]
 Name=Sources
