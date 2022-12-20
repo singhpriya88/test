@@ -54,11 +54,11 @@ Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0083_USB3.Sc
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0084_USB3.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0090_USB3.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0091_USB3.SchDoc|SheetNumber= 
-Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0093_CONNECTIVITY - M.SchDoc|SheetNumber= 
-Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0095_CONNECTIVITY - GBI.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0093_M.2 KEY-E WLAN-BT.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0095_GBIT LAN - FOXVILLE LAN PHY CHIP.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0096_CONNECTIVITY - FOX.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0100_STORAGE - M.SchDoc|SheetNumber= 
-Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0101_STORAGE - M.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0101_PCIe_GEN4.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0109_AUDIO - CODEC MISC.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0110_AUDIO CODEC.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0111_AUDIO - COMBO JACK.SchDoc|SheetNumber= 
