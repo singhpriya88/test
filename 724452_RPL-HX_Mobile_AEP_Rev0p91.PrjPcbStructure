@@ -42,7 +42,8 @@ Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0054_eDP_CON
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0055_LED CON.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0058_DISPLAY SHIFT-POWE.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0059_CAMERA_CONNECTOR.SchDoc|SheetNumber= 
-Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0070_HSIO MUXING -1.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0062_HDMI0_CONNECTOR .SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0063_HDMI1_CONNECTOR.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0071_HSIO MUXING -2.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0072_HSIO MUXING -3.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0073_HSIO MUXING -4.SchDoc|SheetNumber= 
@@ -54,11 +55,11 @@ Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0083_USB3.Sc
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0084_USB3.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0090_USB3.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0091_USB3.SchDoc|SheetNumber= 
-Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0093_CONNECTIVITY - M.SchDoc|SheetNumber= 
-Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0095_CONNECTIVITY - GBI.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0093_M.2 KEY-E WLAN-BT.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0095_GBIT LAN - FOXVILLE LAN PHY CHIP.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0096_CONNECTIVITY - FOX.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0100_STORAGE - M.SchDoc|SheetNumber= 
-Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0101_STORAGE - M.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0101_PCIe_GEN4.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0109_AUDIO - CODEC MISC.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0110_AUDIO CODEC.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0111_AUDIO - COMBO JACK.SchDoc|SheetNumber= 
@@ -122,7 +123,6 @@ Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0195_GPP_MUX
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0196_LPSS - SMLINK OPTI.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0197_LPSS - SMBUS.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0198_GPP_MUX_J_K.SchDoc|SheetNumber= 
-Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0199_PCH H CLOCK OPTION.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0200_GPP_MUX_G_H.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0201_GPP_MUX_F.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=0001_TITLE.SchDoc|FileName=0202_GPP_MUX_I_R.SchDoc|SheetNumber= 
